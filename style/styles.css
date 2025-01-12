@@ -63,3 +63,17 @@ color: rgba(0, 0, 0, 0.662);
 .modern{
    background-color: #F7EBCF;
 }
+.button-group{
+   display: flex;
+   justify-content: space-between;
+   gap: 10px;
+   margin-bottom: 10px;
+}
+.done{
+   background-color: #006A50;
+   font-size: 15px;
+   color: white;
+   margin-top: 20px;
+   border: none;
+   /* border-radius: 5px; */
+}
